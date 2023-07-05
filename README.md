@@ -1,4 +1,4 @@
-- 👋 Prazer, Eu sou Eduardo Dandolini
+#  Prazer, Eu sou Eduardo Dandolini
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)]([https://www.linkedin.com/in/kau%C3%A3-mendes-814617204/](https://www.linkedin.com/in/eduardo-dandolini-b45493258/)https://www.linkedin.com/in/eduardo-dandolini-b45493258/)
 
@@ -9,3 +9,8 @@
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+🚀 Estatísticas 🚀
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Kauamendes&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauamendes&hide=TeX&layout=compact)
